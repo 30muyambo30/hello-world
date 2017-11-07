@@ -1,2 +1,6 @@
 # hello-world
-just another repisatory
+
+hie humans
+
+i am kenneth
+im here to stay
